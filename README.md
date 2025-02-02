@@ -1,3 +1,4 @@
+![HR Dashboard](https://github.com/user-attachments/assets/beead0c7-c40b-48b2-a896-6e9891a0aa34)
 Unlocking HR Potential with Power BI 🚀
 
  > > I'm thrilled to share my latest project—a dynamic Power BI dashboard for Atliq HR that delves into employee leave patterns, week-offs, and sick leave trends.
